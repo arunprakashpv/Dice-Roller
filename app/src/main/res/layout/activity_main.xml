@@ -28,4 +28,14 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="216dp"
+        android:layout_height="203dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@drawable/dice_1" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
