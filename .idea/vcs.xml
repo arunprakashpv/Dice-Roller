@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/Dice-Roller" vcs="Git" />
+>>>>>>> daea19c4c91a54706747a5fdea1315a9b6943ece
   </component>
 </project>

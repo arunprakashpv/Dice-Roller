@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Code/android-basics-kotlin-birthday-card-with-image-app-solution-master/DiceRoller/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+<<<<<<< HEAD
         <entry key="..\:/Project/Diceroll-main/app/src/main/res/layout/activity_main.xml" value="0.25" />
+=======
+>>>>>>> daea19c4c91a54706747a5fdea1315a9b6943ece
       </map>
     </option>
   </component>
